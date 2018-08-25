@@ -21,4 +21,6 @@ echo "eula=true" >eula.txt
 #Start Spigot 
 java -Xms920M -Xmx968M -jar spigot-1.13.jar
 
+echo "Finished"
 
+echo "You Can try the Minecraft Server"
