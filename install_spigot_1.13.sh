@@ -1,3 +1,5 @@
+#create Minecraft Server Director
+
 mkdir -p /home/pi/MCSERVER
 
 #Change Dir
